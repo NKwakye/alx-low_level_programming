@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /**
- *  main - Prints all single digit numbers of base 10 starting from 
+ *  main - Prints all single digit numbers
+ *  of base 10 starting from 
  *  0 only using putchar and without char variables
  *
  *  Return: Always 0
