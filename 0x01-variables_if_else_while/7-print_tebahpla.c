@@ -13,7 +13,6 @@ int main(void)
 
 	for (loalph = 'z'; loalph >= 'a'; loalph--)
 		putchar(loalph);
-
 	
 	putchar('\n');
 
