@@ -1,4 +1,4 @@
-#clude "main.h"
+#include "main.h"
 /**
  * _strncat - function that concatenates two strings.
  * using n bytes from src at most
