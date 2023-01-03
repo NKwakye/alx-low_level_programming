@@ -6,3 +6,5 @@ Task 4: function that searches a string for any of a set of bytes.
 Task 5: function that locates a substring.
 Task 6: function that prints the chessboard.
 Task 7: function that prints the sum of the two diagonals of a square matrix of integers.
+Task 8: function that sets the value of a pointer to a char.
+Task 9: file that contains the password for the crackme2 executable.
