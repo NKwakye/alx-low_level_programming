@@ -25,7 +25,7 @@ int do_is_prime_number(int n, int m)
  * Return: 1 is prime, 0 if composite
  */
 
-int is_prime_number(int n);
+int is_prime_number(int n)
 {
 	if (n == 2)
 		return (1);
