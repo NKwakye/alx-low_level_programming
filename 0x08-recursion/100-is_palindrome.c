@@ -24,7 +24,7 @@ int _strlen(char *s)
 
 int do_is_palindrome(char *s, int l, int i)
 {
-	if (i >= 1 / 2)
+	if (i >= l / 2)
 		return (1);
 	if (*(s + i) == *(s + l - i - 1))
 		return (do_is_palindrome(s, l, i + 1));
