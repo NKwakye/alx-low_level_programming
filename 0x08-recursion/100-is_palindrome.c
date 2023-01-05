@@ -32,7 +32,8 @@ int do_is_palindrome(char *s, int l, int i)
 }
 
 /**
- * is_palindrome - determines if a string is a palindrome
+ * is_palindrome - determines if a string
+ * is a palindrome
  * @s: the string to check
  *
  * Return: 1 if true, 0 if false
