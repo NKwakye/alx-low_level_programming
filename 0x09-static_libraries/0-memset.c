@@ -9,7 +9,7 @@
  * Return: pointer to destination buffer
  */
 
-void *_memset(void *s, int b, size_t n)
+void *_memset(void *s, int b, unsigned int n)
 {
 	unsigned int index;
 	unsigned char *memory = s, value = b;
