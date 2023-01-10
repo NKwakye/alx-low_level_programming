@@ -37,7 +37,7 @@ char *str_concat(char *s1, char *s2)
 	if (s2 == NULL)
 		s2 = "";
 
-	/*count size total*/
+	/*count_size_total*/
 	size = (_strlen(s1) + _strlen(s2) + 1);
 
 	/*malloc*/
@@ -48,7 +48,7 @@ char *str_concat(char *s1, char *s2)
 		return (NULL);
 	}
 
-	/*Concatenate arrays*/
+	/*Concatenate_arrays*/
 	for (i = 0; *(s1 + i) != '\0'; i++)
 		*(dst + i) = *(s1 + i);
 
