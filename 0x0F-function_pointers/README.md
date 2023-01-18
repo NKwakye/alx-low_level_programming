@@ -30,3 +30,6 @@ This task requires that you create four different files.
 3-op_functions.c
 3-get_op_functions.c
 3-main.c
+
+Task 4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
+Write a program that prints the opcodes of its own main function.
