@@ -65,3 +65,29 @@ Write a function that deletes the node at index index of a dlistint_t linked lis
 Prototype: int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 where index is the index of the node that should be deleted. Index starts at 0
 Returns: 1 if it succeeded, -1 if it failed
+
+
+TASK 9. Crackme4
+Find the password for crackme4.
+
+Save the password in the file 100-password
+Your file should contain the exact password, no new line, no extra space
+Hint: The program prints “OK” when the password is correct
+
+
+TASK 10. Palindrome
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+
+Find the largest palindrome made from the product of two 3-digit numbers.
+
+Save the result in the file 102-result
+Your file should contain the exact result, no new line, no extra space
+
+
+Task 11. crackme5
+Write a keygen for crackme5.
+
+Usage of the crackme: ./crackme5 username key
+The crackme will segfault if you do not enter the correct key for the user
+Usage for your keygen: ./keygen5 username
+Your keygen should print a valid key for the username
